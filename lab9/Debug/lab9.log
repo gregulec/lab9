@@ -1,0 +1,12 @@
+﻿Build started 2016-01-26 21:28:57.
+     1>Project "C:\Users\Agnes\Documents\Visual Studio 2013\Projects\lab9\lab9\lab9.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt zad2.cpp
+         zad2.cpp
+     1>c:\users\agnes\documents\visual studio 2013\projects\lab9\lab9\zad2.cpp(146): error C2951: template declarations are only permitted at global, namespace, or class scope
+     1>c:\users\agnes\documents\visual studio 2013\projects\lab9\lab9\zad2.cpp(161): fatal error C1506: unrecoverable block scoping error
+     1>Done Building Project "C:\Users\Agnes\Documents\Visual Studio 2013\Projects\lab9\lab9\lab9.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:07.73
